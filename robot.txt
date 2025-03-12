@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow:
-
-Sitemap: https://addi12334r.github.io/addi12334rvkusmira/sitemap.xml
